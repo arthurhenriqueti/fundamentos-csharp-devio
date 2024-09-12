@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\bin\Debug\net8.0\OpRelacionais.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\bin\Debug\net8.0\OpRelacionais.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\bin\Debug\net8.0\OpRelacionais.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\bin\Debug\net8.0\OpRelacionais.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\bin\Debug\net8.0\OpRelacionais.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\refint\OpRelacionais.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\OpRelacionais.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpRelacionais\obj\Debug\net8.0\ref\OpRelacionais.dll

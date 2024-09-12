@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\bin\Debug\net8.0\OpAritmeticos.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\bin\Debug\net8.0\OpAritmeticos.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\bin\Debug\net8.0\OpAritmeticos.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\bin\Debug\net8.0\OpAritmeticos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\bin\Debug\net8.0\OpAritmeticos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\refint\OpAritmeticos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\OpAritmeticos.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpAritmeticos\obj\Debug\net8.0\ref\OpAritmeticos.dll

@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\bin\Debug\net8.0\TiposDeDados.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\bin\Debug\net8.0\TiposDeDados.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\bin\Debug\net8.0\TiposDeDados.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\bin\Debug\net8.0\TiposDeDados.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\bin\Debug\net8.0\TiposDeDados.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\refint\TiposDeDados.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\TiposDeDados.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TiposDeDados\obj\Debug\net8.0\ref\TiposDeDados.dll

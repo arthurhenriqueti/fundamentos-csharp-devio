@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\bin\Debug\net8.0\TrabalhandoComVariaveis.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\bin\Debug\net8.0\TrabalhandoComVariaveis.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\bin\Debug\net8.0\TrabalhandoComVariaveis.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\bin\Debug\net8.0\TrabalhandoComVariaveis.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\bin\Debug\net8.0\TrabalhandoComVariaveis.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\refint\TrabalhandoComVariaveis.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\TrabalhandoComVariaveis.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComVariaveis\obj\Debug\net8.0\ref\TrabalhandoComVariaveis.dll

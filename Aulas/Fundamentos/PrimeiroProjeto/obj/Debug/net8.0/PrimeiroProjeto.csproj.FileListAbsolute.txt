@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll

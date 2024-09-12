@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\bin\Debug\net8.0\OpLogicos.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\bin\Debug\net8.0\OpLogicos.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\bin\Debug\net8.0\OpLogicos.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\bin\Debug\net8.0\OpLogicos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\bin\Debug\net8.0\OpLogicos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\refint\OpLogicos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\OpLogicos.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpLogicos\obj\Debug\net8.0\ref\OpLogicos.dll

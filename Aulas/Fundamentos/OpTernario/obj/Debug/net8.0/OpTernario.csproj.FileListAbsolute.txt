@@ -1,0 +1,14 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\bin\Debug\net8.0\OpTernario.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\bin\Debug\net8.0\OpTernario.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\bin\Debug\net8.0\OpTernario.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\bin\Debug\net8.0\OpTernario.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\bin\Debug\net8.0\OpTernario.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\refint\OpTernario.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\OpTernario.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\OpTernario\obj\Debug\net8.0\ref\OpTernario.dll
