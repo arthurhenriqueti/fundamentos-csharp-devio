@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpAritmeticos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a7beb89298227be5db513fa707254d4f94de232")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpAritmeticos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpAritmeticos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

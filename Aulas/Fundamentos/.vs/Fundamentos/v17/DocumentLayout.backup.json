@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC01D294-54D5-4112-A0D2-CD8B958C34F1}|OpTernario\\OpTernario.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\opternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC01D294-54D5-4112-A0D2-CD8B958C34F1}|OpTernario\\OpTernario.csproj|solutionrelative:opternario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E12B0B-2DF5-4F35-A741-60C92654CBB7}|CriandoUmaFuncao\\CriandoUmaFuncao.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\criandoumafuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E12B0B-2DF5-4F35-A741-60C92654CBB7}|CriandoUmaFuncao\\CriandoUmaFuncao.csproj|solutionrelative:criandoumafuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\OpTernario\\Program.cs",
-              "RelativeDocumentMoniker": "OpTernario\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\OpTernario\\Program.cs",
-              "RelativeToolTip": "OpTernario\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\CriandoUmaFuncao\\Program.cs",
+              "RelativeDocumentMoniker": "CriandoUmaFuncao\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\CriandoUmaFuncao\\Program.cs",
+              "RelativeToolTip": "CriandoUmaFuncao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T20:08:36.295Z",
+              "WhenOpened": "2024-09-13T20:10:09.068Z",
               "EditorCaption": ""
             }
           ]

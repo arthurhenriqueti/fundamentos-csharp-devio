@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\bin\Debug\net8.0\CriandoUmaFuncao.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\bin\Debug\net8.0\CriandoUmaFuncao.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\bin\Debug\net8.0\CriandoUmaFuncao.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\bin\Debug\net8.0\CriandoUmaFuncao.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\bin\Debug\net8.0\CriandoUmaFuncao.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\refint\CriandoUmaFuncao.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\CriandoUmaFuncao.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\CriandoUmaFuncao\obj\Debug\net8.0\ref\CriandoUmaFuncao.dll
