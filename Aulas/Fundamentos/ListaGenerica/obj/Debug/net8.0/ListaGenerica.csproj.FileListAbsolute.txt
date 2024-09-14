@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\bin\Debug\net8.0\ListaGenerica.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\bin\Debug\net8.0\ListaGenerica.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\bin\Debug\net8.0\ListaGenerica.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\bin\Debug\net8.0\ListaGenerica.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\bin\Debug\net8.0\ListaGenerica.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\refint\ListaGenerica.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ListaGenerica.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ListaGenerica\obj\Debug\net8.0\ref\ListaGenerica.dll

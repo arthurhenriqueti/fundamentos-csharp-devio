@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\bin\Debug\net8.0\ArrayList.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\refint\ArrayList.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ArrayList.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayList\obj\Debug\net8.0\ref\ArrayList.dll

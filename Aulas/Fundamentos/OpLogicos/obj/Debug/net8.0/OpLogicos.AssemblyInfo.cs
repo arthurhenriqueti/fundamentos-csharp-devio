@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpLogicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a7beb89298227be5db513fa707254d4f94de232")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d347d3c1a1dda431cc7edfcccd07c7914bd9ffd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpLogicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpLogicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50E12B0B-2DF5-4F35-A741-60C92654CBB7}|CriandoUmaFuncao\\CriandoUmaFuncao.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\criandoumafuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50E12B0B-2DF5-4F35-A741-60C92654CBB7}|CriandoUmaFuncao\\CriandoUmaFuncao.csproj|solutionrelative:criandoumafuncao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26ADF57E-B46D-4124-AA70-6AD4484AA72C}|Pilha\\Pilha.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26ADF57E-B46D-4124-AA70-6AD4484AA72C}|Pilha\\Pilha.csproj|solutionrelative:pilha\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E1CEE3A-5436-475B-96AC-D400D92BEBA4}|ArrayList\\ArrayList.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E1CEE3A-5436-475B-96AC-D400D92BEBA4}|ArrayList\\ArrayList.csproj|solutionrelative:arraylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9EE86FE-0B74-48B9-8C51-AB1D648DFA09}|ArrayTipado\\ArrayTipado.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\arraytipado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9EE86FE-0B74-48B9-8C51-AB1D648DFA09}|ArrayTipado\\ArrayTipado.csproj|solutionrelative:arraytipado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59FC85B9-20A5-4058-9127-A23A2FE9C538}|ListaGenerica\\ListaGenerica.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\listagenerica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59FC85B9-20A5-4058-9127-A23A2FE9C538}|ListaGenerica\\ListaGenerica.csproj|solutionrelative:listagenerica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDFECBBC-701D-4873-AE6B-2ED2D7C064C6}|Dicionario\\Dicionario.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\dicionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDFECBBC-701D-4873-AE6B-2ED2D7C064C6}|Dicionario\\Dicionario.csproj|solutionrelative:dicionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F978D5A-A07D-4A28-ABAF-73394CCD3D53}|Fila\\Fila.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\fila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F978D5A-A07D-4A28-ABAF-73394CCD3D53}|Fila\\Fila.csproj|solutionrelative:fila\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +40,78 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\CriandoUmaFuncao\\Program.cs",
-              "RelativeDocumentMoniker": "CriandoUmaFuncao\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\CriandoUmaFuncao\\Program.cs",
-              "RelativeToolTip": "CriandoUmaFuncao\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAA0wEAAAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Pilha\\Program.cs",
+              "RelativeDocumentMoniker": "Pilha\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Pilha\\Program.cs",
+              "RelativeToolTip": "Pilha\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T20:10:09.068Z",
+              "WhenOpened": "2024-09-14T21:39:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Fila\\Program.cs",
+              "RelativeDocumentMoniker": "Fila\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Fila\\Program.cs",
+              "RelativeToolTip": "Fila\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:32:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Dicionario\\Program.cs",
+              "RelativeDocumentMoniker": "Dicionario\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Dicionario\\Program.cs",
+              "RelativeToolTip": "Dicionario\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:18:02.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\ListaGenerica\\Program.cs",
+              "RelativeDocumentMoniker": "ListaGenerica\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\ListaGenerica\\Program.cs",
+              "RelativeToolTip": "ListaGenerica\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:50:10.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\ArrayTipado\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayTipado\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\ArrayTipado\\Program.cs",
+              "RelativeToolTip": "ArrayTipado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:39:02.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\ArrayList\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayList\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\ArrayList\\Program.cs",
+              "RelativeToolTip": "ArrayList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:23:16.779Z",
               "EditorCaption": ""
             }
           ]

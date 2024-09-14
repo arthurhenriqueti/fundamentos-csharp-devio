@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\bin\Debug\net8.0\ArrayTipado.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\bin\Debug\net8.0\ArrayTipado.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\bin\Debug\net8.0\ArrayTipado.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\bin\Debug\net8.0\ArrayTipado.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\bin\Debug\net8.0\ArrayTipado.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\refint\ArrayTipado.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ArrayTipado.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\ArrayTipado\obj\Debug\net8.0\ref\ArrayTipado.dll
