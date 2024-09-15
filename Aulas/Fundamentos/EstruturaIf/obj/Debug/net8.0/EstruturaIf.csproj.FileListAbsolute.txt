@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\bin\Debug\net8.0\EstruturaIf.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\bin\Debug\net8.0\EstruturaIf.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\bin\Debug\net8.0\EstruturaIf.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\bin\Debug\net8.0\EstruturaIf.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\bin\Debug\net8.0\EstruturaIf.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\refint\EstruturaIf.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\EstruturaIf.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaIf\obj\Debug\net8.0\ref\EstruturaIf.dll

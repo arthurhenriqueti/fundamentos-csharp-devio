@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\bin\Debug\net8.0\EstruturaFor.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\bin\Debug\net8.0\EstruturaFor.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\bin\Debug\net8.0\EstruturaFor.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\bin\Debug\net8.0\EstruturaFor.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\bin\Debug\net8.0\EstruturaFor.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\refint\EstruturaFor.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\EstruturaFor.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaFor\obj\Debug\net8.0\ref\EstruturaFor.dll

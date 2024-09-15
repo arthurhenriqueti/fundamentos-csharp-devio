@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\bin\Debug\net8.0\EstruturaDoWhile.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\bin\Debug\net8.0\EstruturaDoWhile.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\bin\Debug\net8.0\EstruturaDoWhile.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\bin\Debug\net8.0\EstruturaDoWhile.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\bin\Debug\net8.0\EstruturaDoWhile.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\refint\EstruturaDoWhile.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\EstruturaDoWhile.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaDoWhile\obj\Debug\net8.0\ref\EstruturaDoWhile.dll

@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\bin\Debug\net8.0\EstruturaSwitch.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\refint\EstruturaSwitch.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\EstruturaSwitch.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\EstruturaSwitch\obj\Debug\net8.0\ref\EstruturaSwitch.dll
