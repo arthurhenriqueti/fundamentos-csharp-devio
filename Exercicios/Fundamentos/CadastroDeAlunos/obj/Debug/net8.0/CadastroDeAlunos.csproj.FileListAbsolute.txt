@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\bin\Debug\net8.0\CadastroDeAlunos.exe
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\bin\Debug\net8.0\CadastroDeAlunos.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\bin\Debug\net8.0\CadastroDeAlunos.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\bin\Debug\net8.0\CadastroDeAlunos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\bin\Debug\net8.0\CadastroDeAlunos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\refint\CadastroDeAlunos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\CadastroDeAlunos.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\CadastroDeAlunos\obj\Debug\net8.0\ref\CadastroDeAlunos.dll

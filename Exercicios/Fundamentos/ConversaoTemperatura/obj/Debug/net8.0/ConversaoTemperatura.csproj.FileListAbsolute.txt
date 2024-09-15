@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\bin\Debug\net8.0\ConversaoTemperatura.exe
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\bin\Debug\net8.0\ConversaoTemperatura.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\bin\Debug\net8.0\ConversaoTemperatura.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\bin\Debug\net8.0\ConversaoTemperatura.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\bin\Debug\net8.0\ConversaoTemperatura.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\refint\ConversaoTemperatura.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ConversaoTemperatura.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\ConversaoTemperatura\obj\Debug\net8.0\ref\ConversaoTemperatura.dll
