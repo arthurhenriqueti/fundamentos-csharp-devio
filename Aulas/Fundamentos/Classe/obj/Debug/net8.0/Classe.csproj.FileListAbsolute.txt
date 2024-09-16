@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\bin\Debug\net8.0\Classe.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\bin\Debug\net8.0\Classe.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\bin\Debug\net8.0\Classe.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\bin\Debug\net8.0\Classe.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\bin\Debug\net8.0\Classe.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\refint\Classe.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\Classe.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Classe\obj\Debug\net8.0\ref\Classe.dll

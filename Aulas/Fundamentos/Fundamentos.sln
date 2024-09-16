@@ -31,15 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fila", "Fila\Fila.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pilha", "Pilha\Pilha.csproj", "{26ADF57E-B46D-4124-AA70-6AD4484AA72C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaIf", "EstruturaIf\EstruturaIf.csproj", "{6B4FD8D0-B69A-4949-923E-6BF3E06C2FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaIf", "EstruturaIf\EstruturaIf.csproj", "{6B4FD8D0-B69A-4949-923E-6BF3E06C2FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaSwitch", "EstruturaSwitch\EstruturaSwitch.csproj", "{6B556839-6467-4223-997F-241F3270B88D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaSwitch", "EstruturaSwitch\EstruturaSwitch.csproj", "{6B556839-6467-4223-997F-241F3270B88D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaFor", "EstruturaFor\EstruturaFor.csproj", "{335B6BB1-806A-4AD4-8D0C-C93ADCA29D78}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaFor", "EstruturaFor\EstruturaFor.csproj", "{335B6BB1-806A-4AD4-8D0C-C93ADCA29D78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaWhile", "EstruturaWhile\EstruturaWhile.csproj", "{3D01F836-373E-4B49-AF0E-CE017038099F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaWhile", "EstruturaWhile\EstruturaWhile.csproj", "{3D01F836-373E-4B49-AF0E-CE017038099F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaDoWhile", "EstruturaDoWhile\EstruturaDoWhile.csproj", "{5C9F7FF1-7A75-495D-A077-04DD2C1FEB44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDoWhile", "EstruturaDoWhile\EstruturaDoWhile.csproj", "{5C9F7FF1-7A75-495D-A077-04DD2C1FEB44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe", "Classe\Classe.csproj", "{B827DD02-3725-49BD-A416-A79C3CD5FF1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +125,10 @@ Global
 		{5C9F7FF1-7A75-495D-A077-04DD2C1FEB44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C9F7FF1-7A75-495D-A077-04DD2C1FEB44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C9F7FF1-7A75-495D-A077-04DD2C1FEB44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstruturaSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+040755573fbaea070a46856591717c2e73e261f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+220d82aa9efcef1907ff3bc1f0417f3a3d74ed2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstruturaSwitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstruturaSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
