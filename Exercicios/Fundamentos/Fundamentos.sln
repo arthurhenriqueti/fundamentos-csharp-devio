@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoTemperatura", "ConversaoTemperatura\ConversaoTemperatura.csproj", "{1E60A4A4-0782-4887-9E4F-B0D561FCBE96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversaoTemperatura", "ConversaoTemperatura\ConversaoTemperatura.csproj", "{1E60A4A4-0782-4887-9E4F-B0D561FCBE96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadastroDeAlunos", "CadastroDeAlunos\CadastroDeAlunos.csproj", "{E46630AB-5C34-4C70-99A4-B35313C629E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroDeAlunos", "CadastroDeAlunos\CadastroDeAlunos.csproj", "{E46630AB-5C34-4C70-99A4-B35313C629E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E46630AB-5C34-4C70-99A4-B35313C629E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E46630AB-5C34-4C70-99A4-B35313C629E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E46630AB-5C34-4C70-99A4-B35313C629E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

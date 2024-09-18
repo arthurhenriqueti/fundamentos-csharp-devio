@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E46630AB-5C34-4C70-99A4-B35313C629E5}|CadastroDeAlunos\\CadastroDeAlunos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\cadastrodealunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E46630AB-5C34-4C70-99A4-B35313C629E5}|CadastroDeAlunos\\CadastroDeAlunos.csproj|solutionrelative:cadastrodealunos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}|Biblioteca\\Biblioteca.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E60A4A4-0782-4887-9E4F-B0D561FCBE96}|ConversaoTemperatura\\ConversaoTemperatura.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\conversaotemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E60A4A4-0782-4887-9E4F-B0D561FCBE96}|ConversaoTemperatura\\ConversaoTemperatura.csproj|solutionrelative:conversaotemperatura\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}|Biblioteca\\Biblioteca.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\biblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}|Biblioteca\\Biblioteca.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\CadastroDeAlunos\\Program.cs",
-              "RelativeDocumentMoniker": "CadastroDeAlunos\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\CadastroDeAlunos\\Program.cs",
-              "RelativeToolTip": "CadastroDeAlunos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T20:09:31.461Z",
+              "WhenOpened": "2024-09-18T19:35:21.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\Biblioteca\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Biblioteca.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\Biblioteca\\Biblioteca.cs",
+              "RelativeToolTip": "Biblioteca\\Biblioteca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T19:41:49.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\ConversaoTemperatura\\Program.cs",
-              "RelativeDocumentMoniker": "ConversaoTemperatura\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\ConversaoTemperatura\\Program.cs",
-              "RelativeToolTip": "ConversaoTemperatura\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAABOAAAAAAAAAA==",
+              "Title": "Livro.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\Biblioteca\\Livro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Livro.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\Biblioteca\\Livro.cs",
+              "RelativeToolTip": "Biblioteca\\Livro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T19:50:51.325Z",
+              "WhenOpened": "2024-09-18T19:36:59.291Z",
               "EditorCaption": ""
             }
           ]
