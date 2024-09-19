@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OpTernario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+220d82aa9efcef1907ff3bc1f0417f3a3d74ed2e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+920aace47777e56d6c6b45f7f06c75eb8c6d4c77")]
 [assembly: System.Reflection.AssemblyProductAttribute("OpTernario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OpTernario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

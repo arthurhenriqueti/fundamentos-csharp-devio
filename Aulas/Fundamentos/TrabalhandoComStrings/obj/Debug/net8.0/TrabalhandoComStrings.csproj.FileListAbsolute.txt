@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\bin\Debug\net8.0\TrabalhandoComStrings.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\bin\Debug\net8.0\TrabalhandoComStrings.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\bin\Debug\net8.0\TrabalhandoComStrings.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\bin\Debug\net8.0\TrabalhandoComStrings.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\bin\Debug\net8.0\TrabalhandoComStrings.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\refint\TrabalhandoComStrings.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\TrabalhandoComStrings.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComStrings\obj\Debug\net8.0\ref\TrabalhandoComStrings.dll

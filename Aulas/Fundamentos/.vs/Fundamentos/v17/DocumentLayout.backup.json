@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B827DD02-3725-49BD-A416-A79C3CD5FF1E}|Classe\\Classe.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B827DD02-3725-49BD-A416-A79C3CD5FF1E}|Classe\\Classe.csproj|solutionrelative:classe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B827DD02-3725-49BD-A416-A79C3CD5FF1E}|Classe\\Classe.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\classe\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B827DD02-3725-49BD-A416-A79C3CD5FF1E}|Classe\\Classe.csproj|solutionrelative:classe\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0EA878B1-1374-407E-A100-D47AA064C2C6}|TrabalhandoComStrings\\TrabalhandoComStrings.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\trabalhandocomstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA878B1-1374-407E-A100-D47AA064C2C6}|TrabalhandoComStrings\\TrabalhandoComStrings.csproj|solutionrelative:trabalhandocomstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Classe\\Program.cs",
-              "RelativeDocumentMoniker": "Classe\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Classe\\Program.cs",
-              "RelativeToolTip": "Classe\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAA2wEkAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\TrabalhandoComStrings\\Program.cs",
+              "RelativeDocumentMoniker": "TrabalhandoComStrings\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\TrabalhandoComStrings\\Program.cs",
+              "RelativeToolTip": "TrabalhandoComStrings\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T18:59:32.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Classe\\Produto.cs",
-              "RelativeDocumentMoniker": "Classe\\Produto.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\Classe\\Produto.cs",
-              "RelativeToolTip": "Classe\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T19:07:16.051Z",
+              "WhenOpened": "2024-09-19T21:07:32.831Z",
               "EditorCaption": ""
             }
           ]

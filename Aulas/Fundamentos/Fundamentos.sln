@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaWhile", "Estrutura
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EstruturaDoWhile", "EstruturaDoWhile\EstruturaDoWhile.csproj", "{5C9F7FF1-7A75-495D-A077-04DD2C1FEB44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classe", "Classe\Classe.csproj", "{B827DD02-3725-49BD-A416-A79C3CD5FF1E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classe", "Classe\Classe.csproj", "{B827DD02-3725-49BD-A416-A79C3CD5FF1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conversores", "Conversores\Conversores.csproj", "{8F103A6D-7667-4226-B368-A39DC2F4905A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComStrings", "TrabalhandoComStrings\TrabalhandoComStrings.csproj", "{0EA878B1-1374-407E-A100-D47AA064C2C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B827DD02-3725-49BD-A416-A79C3CD5FF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F103A6D-7667-4226-B368-A39DC2F4905A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F103A6D-7667-4226-B368-A39DC2F4905A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F103A6D-7667-4226-B368-A39DC2F4905A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F103A6D-7667-4226-B368-A39DC2F4905A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA878B1-1374-407E-A100-D47AA064C2C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA878B1-1374-407E-A100-D47AA064C2C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA878B1-1374-407E-A100-D47AA064C2C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA878B1-1374-407E-A100-D47AA064C2C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

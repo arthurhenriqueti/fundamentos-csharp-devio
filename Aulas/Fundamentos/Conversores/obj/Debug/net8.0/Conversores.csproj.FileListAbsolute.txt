@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\bin\Debug\net8.0\Conversores.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\bin\Debug\net8.0\Conversores.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\bin\Debug\net8.0\Conversores.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\bin\Debug\net8.0\Conversores.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\bin\Debug\net8.0\Conversores.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\refint\Conversores.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\Conversores.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Conversores\obj\Debug\net8.0\ref\Conversores.dll
