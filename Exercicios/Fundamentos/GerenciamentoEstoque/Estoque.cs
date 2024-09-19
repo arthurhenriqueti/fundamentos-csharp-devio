@@ -22,7 +22,7 @@ namespace GerenciamentoEstoque
 
         public void ExibirProdutos()
         {
-            foreach (var item in produtos)
+            foreach (Produto item in produtos)
             {
                 item.ExibirDetalhes();
             }
