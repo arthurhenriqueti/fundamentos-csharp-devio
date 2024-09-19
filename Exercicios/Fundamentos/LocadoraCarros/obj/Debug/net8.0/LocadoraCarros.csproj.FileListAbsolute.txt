@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\bin\Debug\net8.0\LocadoraCarros.exe
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\bin\Debug\net8.0\LocadoraCarros.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\bin\Debug\net8.0\LocadoraCarros.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\bin\Debug\net8.0\LocadoraCarros.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\bin\Debug\net8.0\LocadoraCarros.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\refint\LocadoraCarros.dll
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\LocadoraCarros.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Exercicios\Fundamentos\LocadoraCarros\obj\Debug\net8.0\ref\LocadoraCarros.dll

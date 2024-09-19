@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53635932-ACDA-4D77-96B7-820B30C91CF7}|GerenciamentoEstoque\\GerenciamentoEstoque.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\gerenciamentoestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53635932-ACDA-4D77-96B7-820B30C91CF7}|GerenciamentoEstoque\\GerenciamentoEstoque.csproj|solutionrelative:gerenciamentoestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}|LocadoraCarros\\LocadoraCarros.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\locadoracarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}|LocadoraCarros\\LocadoraCarros.csproj|solutionrelative:locadoracarros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53635932-ACDA-4D77-96B7-820B30C91CF7}|GerenciamentoEstoque\\GerenciamentoEstoque.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\gerenciamentoestoque\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53635932-ACDA-4D77-96B7-820B30C91CF7}|GerenciamentoEstoque\\GerenciamentoEstoque.csproj|solutionrelative:gerenciamentoestoque\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}|LocadoraCarros\\LocadoraCarros.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\locadoracarros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}|LocadoraCarros\\LocadoraCarros.csproj|solutionrelative:locadoracarros\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{53635932-ACDA-4D77-96B7-820B30C91CF7}|GerenciamentoEstoque\\GerenciamentoEstoque.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\gerenciamentoestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53635932-ACDA-4D77-96B7-820B30C91CF7}|GerenciamentoEstoque\\GerenciamentoEstoque.csproj|solutionrelative:gerenciamentoestoque\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}|LocadoraCarros\\LocadoraCarros.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\exercicios\\fundamentos\\locadoracarros\\locadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}|LocadoraCarros\\LocadoraCarros.csproj|solutionrelative:locadoracarros\\locadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,39 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\GerenciamentoEstoque\\Program.cs",
-              "RelativeDocumentMoniker": "GerenciamentoEstoque\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\GerenciamentoEstoque\\Program.cs",
-              "RelativeToolTip": "GerenciamentoEstoque\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\LocadoraCarros\\Program.cs",
+              "RelativeDocumentMoniker": "LocadoraCarros\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\LocadoraCarros\\Program.cs",
+              "RelativeToolTip": "LocadoraCarros\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA2wDgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:48:08.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\GerenciamentoEstoque\\Produto.cs",
-              "RelativeDocumentMoniker": "GerenciamentoEstoque\\Produto.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\GerenciamentoEstoque\\Produto.cs",
-              "RelativeToolTip": "GerenciamentoEstoque\\Produto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:49:01.147Z",
+              "WhenOpened": "2024-09-19T21:43:03.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Estoque.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\GerenciamentoEstoque\\Estoque.cs",
-              "RelativeDocumentMoniker": "GerenciamentoEstoque\\Estoque.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\GerenciamentoEstoque\\Estoque.cs",
-              "RelativeToolTip": "GerenciamentoEstoque\\Estoque.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBgAAAAuAAAAAAAAAA==",
+              "Title": "Carro.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\LocadoraCarros\\Carro.cs",
+              "RelativeDocumentMoniker": "LocadoraCarros\\Carro.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\LocadoraCarros\\Carro.cs",
+              "RelativeToolTip": "LocadoraCarros\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:55:09.439Z",
+              "WhenOpened": "2024-09-19T21:43:24.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Locadora.cs",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\LocadoraCarros\\Locadora.cs",
+              "RelativeDocumentMoniker": "LocadoraCarros\\Locadora.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Exercicios\\Fundamentos\\LocadoraCarros\\Locadora.cs",
+              "RelativeToolTip": "LocadoraCarros\\Locadora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T21:47:37.976Z",
               "EditorCaption": ""
             }
           ]

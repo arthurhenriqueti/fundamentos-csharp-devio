@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciamentoEstoque")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1a956713d0961131ee35d0b051c5b9e28c4ec17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+040d564ab2139c4141eb84589087a905a342c1f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciamentoEstoque")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciamentoEstoque")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

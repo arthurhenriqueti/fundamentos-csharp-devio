@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroDeAlunos", "Cadastr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{FE9645E0-C46D-4211-8DE1-8ECDB5CA996C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciamentoEstoque", "GerenciamentoEstoque\GerenciamentoEstoque.csproj", "{53635932-ACDA-4D77-96B7-820B30C91CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoEstoque", "GerenciamentoEstoque\GerenciamentoEstoque.csproj", "{53635932-ACDA-4D77-96B7-820B30C91CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocadoraCarros", "LocadoraCarros\LocadoraCarros.csproj", "{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{53635932-ACDA-4D77-96B7-820B30C91CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53635932-ACDA-4D77-96B7-820B30C91CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53635932-ACDA-4D77-96B7-820B30C91CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B796F9-25FD-4F59-B21A-E7601ECBF0D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
