@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\bin\Debug\net8.0\Excecoes.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\bin\Debug\net8.0\Excecoes.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\bin\Debug\net8.0\Excecoes.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\bin\Debug\net8.0\Excecoes.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\bin\Debug\net8.0\Excecoes.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\refint\Excecoes.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\Excecoes.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\Excecoes\obj\Debug\net8.0\ref\Excecoes.dll
