@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\bin\Debug\net8.0\TrabalhandoComArquivos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\refint\TrabalhandoComArquivos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\TrabalhandoComArquivos.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComArquivos\obj\Debug\net8.0\ref\TrabalhandoComArquivos.dll
