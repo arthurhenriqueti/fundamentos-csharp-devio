@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CC336615-DC69-4A61-88F5-55E56644BEED}|TrabalhandoComArquivos\\TrabalhandoComArquivos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\trabalhandocomarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC336615-DC69-4A61-88F5-55E56644BEED}|TrabalhandoComArquivos\\TrabalhandoComArquivos.csproj|solutionrelative:trabalhandocomarquivos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}|TrabalhandoComLinq\\TrabalhandoComLinq.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\aulas\\fundamentos\\trabalhandocomlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}|TrabalhandoComLinq\\TrabalhandoComLinq.csproj|solutionrelative:trabalhandocomlinq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\TrabalhandoComArquivos\\Program.cs",
-              "RelativeDocumentMoniker": "TrabalhandoComArquivos\\Program.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\TrabalhandoComArquivos\\Program.cs",
-              "RelativeToolTip": "TrabalhandoComArquivos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\TrabalhandoComLinq\\Program.cs",
+              "RelativeDocumentMoniker": "TrabalhandoComLinq\\Program.cs",
+              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Aulas\\Fundamentos\\TrabalhandoComLinq\\Program.cs",
+              "RelativeToolTip": "TrabalhandoComLinq\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T20:20:26.321Z",
+              "WhenOpened": "2024-09-21T20:43:04.192Z",
               "EditorCaption": ""
             }
           ]

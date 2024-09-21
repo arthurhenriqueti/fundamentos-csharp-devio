@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComDatas", "Trab
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Excecoes", "Excecoes\Excecoes.csproj", "{F09BB5D7-F5D1-469D-A53A-65ABD235267B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComArquivos", "TrabalhandoComArquivos\TrabalhandoComArquivos.csproj", "{CC336615-DC69-4A61-88F5-55E56644BEED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrabalhandoComArquivos", "TrabalhandoComArquivos\TrabalhandoComArquivos.csproj", "{CC336615-DC69-4A61-88F5-55E56644BEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrabalhandoComLinq", "TrabalhandoComLinq\TrabalhandoComLinq.csproj", "{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{CC336615-DC69-4A61-88F5-55E56644BEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC336615-DC69-4A61-88F5-55E56644BEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC336615-DC69-4A61-88F5-55E56644BEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C676CA-C722-4A5D-B9B4-DD7851BA4C18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

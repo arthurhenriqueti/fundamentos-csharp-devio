@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\bin\Debug\net8.0\TrabalhandoComLinq.exe
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\bin\Debug\net8.0\TrabalhandoComLinq.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\bin\Debug\net8.0\TrabalhandoComLinq.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\bin\Debug\net8.0\TrabalhandoComLinq.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\bin\Debug\net8.0\TrabalhandoComLinq.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\refint\TrabalhandoComLinq.dll
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\TrabalhandoComLinq.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Aulas\Fundamentos\TrabalhandoComLinq\obj\Debug\net8.0\ref\TrabalhandoComLinq.dll
