@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 namespace GerenciamentoDeAtivosTecnologicos
 {
@@ -103,18 +104,64 @@ namespace GerenciamentoDeAtivosTecnologicos
                         switch (respMonitor)
                         {
                             case 1:
-                                monitor = new Monitor(0, "LG UltraWide", "29WN600", 2020, "Monitor", "29P", "2560x1080", "75Hz", "HDMI, DP");
+                                Console.Clear();
+                                Console.Write("Id: ");
+                                int id = int.Parse(Console.ReadLine());
+                                Console.Write("Nome: ");
+                                String nome = Console.ReadLine();
+                                Console.Write("Modelo: ");
+                                String modelo = Console.ReadLine();
+                                Console.Write("Ano de Fabricação: ");
+                                int anoFabricacao = int.Parse(Console.ReadLine());
+                                Console.Write("Tipo: ");
+                                String tipo = Console.ReadLine();
+                                Console.Write("Tamanho: ");
+                                String tamanho = Console.ReadLine();
+                                Console.Write("Resolução: ");
+                                String resolucao = Console.ReadLine();
+                                Console.Write("Taxa de Atualização: ");
+                                String taxaAtualizacao = Console.ReadLine();
+                                Console.Write("Conexões: ");
+                                String conexoes = Console.ReadLine();
+
+                                monitor = new Monitor(id, nome, modelo, anoFabricacao, tipo, tamanho, resolucao, taxaAtualizacao, conexoes);
                                 dispositivosRepositorio.AddMonitor(monitor);
                                 break;
                             case 2:
                                 dispositivosRepositorio.ExibirMonitores();
                                 break;
                             case 3:
-                                monitor = new Monitor(1, "Samsung Odyssey G7", "LC32G7", 2021, "Monitor", "32P", "2560x1440", "240Hz", "HDMI, DP, USB");
-                                dispositivosRepositorio.AtualizarMonitor(0, monitor);
+                                Console.Clear();
+                                Console.Write("Id (Alterar): ");
+                                int idAlterar = int.Parse(Console.ReadLine());
+                                Console.Write("Id: ");
+                                id = int.Parse(Console.ReadLine());
+                                Console.Write("Nome: ");
+                                nome = Console.ReadLine();
+                                Console.Write("Modelo: ");
+                                modelo = Console.ReadLine();
+                                Console.Write("Ano de Fabricação: ");
+                                anoFabricacao = int.Parse(Console.ReadLine());
+                                Console.Write("Tipo: ");
+                                tipo = Console.ReadLine();
+                                Console.Write("Tamanho: ");
+                                tamanho = Console.ReadLine();
+                                Console.Write("Resolução: ");
+                                resolucao = Console.ReadLine();
+                                Console.Write("Taxa de Atualização: ");
+                                taxaAtualizacao = Console.ReadLine();
+                                Console.Write("Conexões: ");
+                                conexoes = Console.ReadLine();
+
+                                monitor = new Monitor(id, nome, modelo, anoFabricacao, tipo, tamanho, resolucao, taxaAtualizacao, conexoes);
+                                dispositivosRepositorio.AtualizarMonitor(idAlterar, monitor);
                                 break;
                             case 4:
-                                dispositivosRepositorio.DelMonitor(0);
+                                Console.Clear();
+                                Console.Write("Id (Remover): ");
+                                id = int.Parse(Console.ReadLine());
+
+                                dispositivosRepositorio.DelMonitor(id);
                                 break;
                             default:
                                 Console.WriteLine("Valor inválido!");
@@ -130,18 +177,55 @@ namespace GerenciamentoDeAtivosTecnologicos
                         switch (respImpressora)
                         {
                             case 1:
-                                impressora = new Impressora(0, "HP LaserJet Pro", "W1A53A", 2019, "Impressora", "Impressão, Cópia, Digitalização", "USB, Ethernet, Wi-Fi");
+                                Console.Clear();
+                                Console.Write("Id: ");
+                                int id = int.Parse(Console.ReadLine());
+                                Console.Write("Nome: ");
+                                String nome = Console.ReadLine();
+                                Console.Write("Modelo: ");
+                                String modelo = Console.ReadLine();
+                                Console.Write("Ano de Fabricação: ");
+                                int anoFabricacao = int.Parse(Console.ReadLine());
+                                Console.Write("Tipo: ");
+                                String tipo = Console.ReadLine();
+                                Console.Write("Funções: ");
+                                String funcoes = Console.ReadLine();
+                                Console.Write("Conexões: ");
+                                String conexoes = Console.ReadLine();
+
+                                impressora = new Impressora(id, nome, modelo, anoFabricacao, tipo, funcoes, conexoes);
                                 dispositivosRepositorio.AddImpressora(impressora);
                                 break;
                             case 2:
                                 dispositivosRepositorio.ExibirImpressoras();
                                 break;
                             case 3:
-                                impressora = new Impressora(1, "Canon PIXMA G3110", "2315C021AA", 2018, "Impressora", "Impressão, Cópia, Digitalização", "USB, Ethernet, Wi-Fi");
-                                dispositivosRepositorio.AtualizarImpressora(0, impressora);
+                                Console.Clear();
+                                Console.Write("Id (Alterar): ");
+                                int idAlterar = int.Parse(Console.ReadLine());
+                                Console.Write("Id: ");
+                                id = int.Parse(Console.ReadLine());
+                                Console.Write("Nome: ");
+                                nome = Console.ReadLine();
+                                Console.Write("Modelo: ");
+                                modelo = Console.ReadLine();
+                                Console.Write("Ano de Fabricação: ");
+                                anoFabricacao = int.Parse(Console.ReadLine());
+                                Console.Write("Tipo: ");
+                                tipo = Console.ReadLine();
+                                Console.Write("Funções: ");
+                                funcoes = Console.ReadLine();
+                                Console.Write("Conexões: ");
+                                conexoes = Console.ReadLine();
+
+                                dispositivosRepositorio.AtualizarImpressora(idAlterar, impressora);
                                 break;
                             case 4:
-                                dispositivosRepositorio.DelImpressora(0);
+                                Console.Clear();
+                                Console.Write("Id (Remover): ");
+                                id = int.Parse(Console.ReadLine());
+
+                                dispositivosRepositorio.DelImpressora(id);
                                 break;
                             default:
                                 Console.WriteLine("Valor inválido!");
