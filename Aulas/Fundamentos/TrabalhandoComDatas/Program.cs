@@ -25,8 +25,8 @@ Console.WriteLine(data3.AddYears(2000));
 
 Console.WriteLine(data3.DayOfWeek);
 
-var data6 = new DateOnly(2024, 09, 20);
-// var data6 = DateOnly.Parse("2024/09/20");
+//var data6 = new DateOnly(2024, 09, 20);
+var data6 = DateOnly.Parse("2024/09/20");
 
 Console.WriteLine(data6.ToString("MM-dd-yyyy"));
 
