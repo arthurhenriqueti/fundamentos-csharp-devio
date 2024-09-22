@@ -12,8 +12,6 @@ namespace GerenciamentoDeAtivosTecnologicos
         List<Monitor> monitores = new List<Monitor>();
         List<Impressora> impressoras = new List<Impressora>();
 
-        // Notebook
-
         public void AddNotebook(Notebook notebook)
         {
             notebooks.Add(notebook);
@@ -37,8 +35,6 @@ namespace GerenciamentoDeAtivosTecnologicos
             notebooks.RemoveAt(indice);
         }
 
-        // Monitor
-
         public void AddMonitor(Monitor monitor)
         {
             monitores.Add(monitor);
@@ -61,8 +57,6 @@ namespace GerenciamentoDeAtivosTecnologicos
         {
             monitores.RemoveAt(indice);
         }
-
-        // Impressora
 
         public void AddImpressora(Impressora impressora)
         {
