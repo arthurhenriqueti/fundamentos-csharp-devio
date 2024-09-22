@@ -9,6 +9,9 @@ namespace GerenciamentoDeAtivosTecnologicos
     public class DispositivosRepositorio
     {
         List<Notebook> notebooks = new List<Notebook>();
+        List<Monitor> monitores = new List<Monitor>();
+
+        // Notebook
 
         public void AddNotebook(Notebook notebook)
         {
@@ -31,6 +34,31 @@ namespace GerenciamentoDeAtivosTecnologicos
         public void DelNotebook(int indice)
         {
             notebooks.RemoveAt(indice);
+        }
+
+        // Monitor
+
+        public void AddMonitor(Monitor monitor)
+        {
+            monitores.Add(monitor);
+        }
+
+        public void ExibirMonitores()
+        {
+            foreach (Monitor item in monitores)
+            {
+                item.ExibirInfoMonitor();
+            }
+        }
+
+        public void AtualizarMonitor(int indice, Monitor monitor)
+        {
+            monitores[indice] = monitor;
+        }
+
+        public void DelMonitor(int indice)
+        {
+            monitores.RemoveAt(indice);
         }
     }
 }

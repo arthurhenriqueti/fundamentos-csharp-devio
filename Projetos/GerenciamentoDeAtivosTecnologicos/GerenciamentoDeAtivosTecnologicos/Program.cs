@@ -8,6 +8,7 @@ namespace GerenciamentoDeAtivosTecnologicos
         {
             DispositivosRepositorio dispositivosRepositorio = new DispositivosRepositorio();
             Notebook notebook = null;
+            Monitor monitor = null;
 
             int respMenu = 0;
             do
@@ -16,9 +17,7 @@ namespace GerenciamentoDeAtivosTecnologicos
                 Console.WriteLine("1 - Notebook");
                 Console.WriteLine("2 - Monitor");
                 Console.WriteLine("3 - Impressora");
-                Console.WriteLine("4 - Teclado");
-                Console.WriteLine("5 - Mouse");
-                Console.WriteLine("6 - Sair");
+                Console.WriteLine("4 - Sair");
                 Console.WriteLine("---------------------------");
 
                 respMenu = int.Parse(Console.ReadLine());
@@ -56,9 +55,39 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 break;
                         }
                         break;
+                    case 2:
+                        Console.WriteLine("---------------------------");
+                        Console.WriteLine("1 - Adicionar");
+                        Console.WriteLine("2 - Exibir");
+                        Console.WriteLine("3 - Atualizar");
+                        Console.WriteLine("4 - Remover");
+                        Console.WriteLine("---------------------------");
+
+                        int respMonitor = int.Parse(Console.ReadLine());
+
+                        switch (respMonitor)
+                        {
+                            case 1:
+                                monitor = new Monitor(0, "LG UltraWide", "29WN600", 2020, "Monitor", "29P", "2560x1080", "75Hz", "HDMI, DP");
+                                dispositivosRepositorio.AddMonitor(monitor);
+                                break;
+                            case 2:
+                                dispositivosRepositorio.ExibirMonitores();
+                                break;
+                            case 3:
+                                monitor = new Monitor(1, "Samsung Odyssey G7", "LC32G7", 2021, "Monitor", "32P", "2560x1440", "240Hz", "HDMI, DP, USB");
+                                dispositivosRepositorio.AtualizarMonitor(0, monitor);
+                                break;
+                            case 4:
+                                dispositivosRepositorio.DelMonitor(0);
+                                break;
+                            default:
+                                Console.WriteLine("Valor inválido!");
+                                break;
+                        }
+                        break;
                 }
-            } while (respMenu != 6);
-            
+            } while (respMenu != 4);
         }
     }
 }
