@@ -7,24 +7,12 @@
       "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\impressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\impressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\dispositivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\dispositivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\dispositivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\dispositivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\notebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\monitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\impressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\impressora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,14 +32,14 @@
               "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Program.cs",
               "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Program.cs",
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T19:31:02.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DispositivosRepositorio.cs",
               "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
               "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
@@ -59,55 +47,20 @@
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAIwFYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:58:18.848Z"
+              "WhenOpened": "2024-09-22T19:58:18.848Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dispositivos.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Dispositivos.cs",
-              "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Dispositivos.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Dispositivos.cs",
-              "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Dispositivos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:35:55.33Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Notebook.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Notebook.cs",
-              "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Notebook.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Notebook.cs",
-              "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Notebook.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:07:51.617Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Monitor.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Monitor.cs",
-              "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Monitor.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Monitor.cs",
-              "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Monitor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:59:30.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Impressora.cs",
               "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Impressora.cs",
               "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Impressora.cs",
               "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Impressora.cs",
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Impressora.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T21:20:36.972Z",
+              "WhenOpened": "2024-09-22T22:53:40.733Z",
               "EditorCaption": ""
             }
           ]
