@@ -30,18 +30,64 @@ namespace GerenciamentoDeAtivosTecnologicos
                         switch (respNotebook)
                         {
                             case 1:
-                                notebook = new Notebook(0, "Dell 15 3000", "Inspiron", 2021, "Notebook", "Intel Core i5", "8 GB", "SSD 256 GB", "Windows 10 Home");
+                                Console.Clear();
+                                Console.Write("Id: ");
+                                int id = int.Parse(Console.ReadLine());
+                                Console.Write("Nome: ");
+                                String nome = Console.ReadLine();
+                                Console.Write("Modelo: ");
+                                String modelo = Console.ReadLine();
+                                Console.Write("Ano de Fabricação: ");
+                                int anoFabricacao = int.Parse(Console.ReadLine());
+                                Console.Write("Tipo: ");
+                                String tipo = Console.ReadLine();
+                                Console.Write("Processador: ");
+                                String processador = Console.ReadLine();
+                                Console.Write("Memória RAM: ");
+                                String memoria = Console.ReadLine();
+                                Console.Write("Armazenamento: ");
+                                String armazenamento = Console.ReadLine();
+                                Console.Write("Sistema Operacional: ");
+                                String sistemaOperacional = Console.ReadLine();
+
+                                notebook = new Notebook(id, nome, modelo, anoFabricacao, tipo, processador, memoria, armazenamento, sistemaOperacional);
                                 dispositivosRepositorio.AddNotebook(notebook);
                                 break;
                             case 2:
                                 dispositivosRepositorio.ExibirNotebooks();
                                 break;
                             case 3:
-                                notebook = new Notebook(1, "MacBook Pro 13", "A2338", 2020, "Notebook", "Apple M1", "8 GB", "SSD 256 GB", "macOS Big Sur");
-                                dispositivosRepositorio.AtualizarNotebook(0, notebook);
+                                Console.Clear();
+                                Console.Write("Id (Alterar): ");
+                                int idAlterar = int.Parse(Console.ReadLine());
+                                Console.Write("Id: ");
+                                id = int.Parse(Console.ReadLine());
+                                Console.Write("Nome: ");
+                                nome = Console.ReadLine();
+                                Console.Write("Modelo: ");
+                                modelo = Console.ReadLine();
+                                Console.Write("Ano de Fabricação: ");
+                                anoFabricacao = int.Parse(Console.ReadLine());
+                                Console.Write("Tipo: ");
+                                tipo = Console.ReadLine();
+                                Console.Write("Processador: ");
+                                processador = Console.ReadLine();
+                                Console.Write("Memória RAM: ");
+                                memoria = Console.ReadLine();
+                                Console.Write("Armazenamento: ");
+                                armazenamento = Console.ReadLine();
+                                Console.Write("Sistema Operacional: ");
+                                sistemaOperacional = Console.ReadLine();
+
+                                notebook = new Notebook(id, nome, modelo, anoFabricacao, tipo, processador, memoria, armazenamento, sistemaOperacional);
+                                dispositivosRepositorio.AtualizarNotebook(idAlterar, notebook);
                                 break;
                             case 4:
-                                dispositivosRepositorio.DelNotebook(0);
+                                Console.Clear();
+                                Console.Write("Id (Remover): ");
+                                id = int.Parse(Console.ReadLine());
+
+                                dispositivosRepositorio.DelNotebook(id);
                                 break;
                             default:
                                 Console.WriteLine("Valor inválido!");

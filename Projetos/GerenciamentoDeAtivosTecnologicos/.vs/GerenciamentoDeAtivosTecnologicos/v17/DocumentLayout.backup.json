@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Program.cs",
               "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Program.cs",
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Program.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAA2wE4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAxwFYAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T19:31:02.244Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAIwFYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:58:18.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T19:58:18.848Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Dispositivos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:35:55.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T19:35:55.33Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Notebook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:07:51.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T20:07:51.617Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Monitor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T20:59:30.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T20:59:30.76Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Impressora.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T21:20:36.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T21:20:36.972Z"
             }
           ]
         }
