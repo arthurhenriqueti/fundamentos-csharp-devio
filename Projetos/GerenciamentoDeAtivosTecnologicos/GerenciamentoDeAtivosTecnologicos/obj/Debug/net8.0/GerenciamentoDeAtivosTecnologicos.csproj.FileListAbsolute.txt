@@ -1,0 +1,15 @@
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\bin\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.exe
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\bin\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.deps.json
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\bin\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.runtimeconfig.json
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\bin\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\bin\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.AssemblyInfoInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.AssemblyInfo.cs
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.csproj.CoreCompileInputs.cache
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.sourcelink.json
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\refint\GerenciamentoDeAtivosTecnologicos.dll
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.pdb
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\GerenciamentoDeAtivosTecnologicos.genruntimeconfig.cache
+D:\dev\cursos\fundamentos-csharp-devio\Projetos\GerenciamentoDeAtivosTecnologicos\GerenciamentoDeAtivosTecnologicos\obj\Debug\net8.0\ref\GerenciamentoDeAtivosTecnologicos.dll
