@@ -9,28 +9,21 @@ namespace GerenciamentoDeAtivosTecnologicos
             DispositivosRepositorio dispositivosRepositorio = new DispositivosRepositorio();
             Notebook notebook = null;
             Monitor monitor = null;
+            Impressora impressora = null;
 
             int respMenu = 0;
             do
             {
-                Console.WriteLine("---------------------------");
-                Console.WriteLine("1 - Notebook");
-                Console.WriteLine("2 - Monitor");
-                Console.WriteLine("3 - Impressora");
-                Console.WriteLine("4 - Sair");
-                Console.WriteLine("---------------------------");
+                Console.Clear();
+                MenuInicial();
 
                 respMenu = int.Parse(Console.ReadLine());
 
                 switch (respMenu)
                 {
                     case 1:
-                        Console.WriteLine("---------------------------");
-                        Console.WriteLine("1 - Adicionar");
-                        Console.WriteLine("2 - Exibir");
-                        Console.WriteLine("3 - Atualizar");
-                        Console.WriteLine("4 - Remover");
-                        Console.WriteLine("---------------------------");
+                        Console.Clear();
+                        MenuDispositivos();
 
                         int respNotebook = int.Parse(Console.ReadLine());
 
@@ -56,12 +49,8 @@ namespace GerenciamentoDeAtivosTecnologicos
                         }
                         break;
                     case 2:
-                        Console.WriteLine("---------------------------");
-                        Console.WriteLine("1 - Adicionar");
-                        Console.WriteLine("2 - Exibir");
-                        Console.WriteLine("3 - Atualizar");
-                        Console.WriteLine("4 - Remover");
-                        Console.WriteLine("---------------------------");
+                        Console.Clear();
+                        MenuDispositivos();
 
                         int respMonitor = int.Parse(Console.ReadLine());
 
@@ -86,8 +75,62 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 break;
                         }
                         break;
+                    case 3:
+                        Console.Clear();
+                        MenuDispositivos();
+
+                        int respImpressora = int.Parse(Console.ReadLine());
+
+                        switch (respImpressora)
+                        {
+                            case 1:
+                                impressora = new Impressora(0, "HP LaserJet Pro", "W1A53A", 2019, "Impressora", "Impressão, Cópia, Digitalização", "USB, Ethernet, Wi-Fi");
+                                dispositivosRepositorio.AddImpressora(impressora);
+                                break;
+                            case 2:
+                                dispositivosRepositorio.ExibirImpressoras();
+                                break;
+                            case 3:
+                                impressora = new Impressora(1, "Canon PIXMA G3110", "2315C021AA", 2018, "Impressora", "Impressão, Cópia, Digitalização", "USB, Ethernet, Wi-Fi");
+                                dispositivosRepositorio.AtualizarImpressora(0, impressora);
+                                break;
+                            case 4:
+                                dispositivosRepositorio.DelImpressora(0);
+                                break;
+                            default:
+                                Console.WriteLine("Valor inválido!");
+                                break;
+                        }
+                        break;
+                    case 4:
+                        Console.WriteLine("Programa encerrado!");
+                        respMenu = 4;
+                        break;
+                    default:
+                        Console.WriteLine("Valor inválido!");
+                        break;
                 }
             } while (respMenu != 4);
+        }
+
+        public static void MenuInicial()
+        {
+            Console.WriteLine("---------------------------");
+            Console.WriteLine("1 - Notebook");
+            Console.WriteLine("2 - Monitor");
+            Console.WriteLine("3 - Impressora");
+            Console.WriteLine("4 - Sair");
+            Console.WriteLine("---------------------------");
+        }
+
+        public static void MenuDispositivos()
+        {
+            Console.WriteLine("---------------------------");
+            Console.WriteLine("1 - Adicionar");
+            Console.WriteLine("2 - Exibir");
+            Console.WriteLine("3 - Atualizar");
+            Console.WriteLine("4 - Remover");
+            Console.WriteLine("---------------------------");
         }
     }
 }

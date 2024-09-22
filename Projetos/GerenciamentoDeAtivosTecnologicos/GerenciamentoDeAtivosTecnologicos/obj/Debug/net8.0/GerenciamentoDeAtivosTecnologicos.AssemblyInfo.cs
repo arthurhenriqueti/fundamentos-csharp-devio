@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GerenciamentoDeAtivosTecnologicos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f89b2c8d0d911458581946a2d08f01bea49db6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95919386eec039033458b3f575044e76a3a8c7fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("GerenciamentoDeAtivosTecnologicos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GerenciamentoDeAtivosTecnologicos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

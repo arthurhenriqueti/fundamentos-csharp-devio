@@ -10,6 +10,7 @@ namespace GerenciamentoDeAtivosTecnologicos
     {
         List<Notebook> notebooks = new List<Notebook>();
         List<Monitor> monitores = new List<Monitor>();
+        List<Impressora> impressoras = new List<Impressora>();
 
         // Notebook
 
@@ -59,6 +60,31 @@ namespace GerenciamentoDeAtivosTecnologicos
         public void DelMonitor(int indice)
         {
             monitores.RemoveAt(indice);
+        }
+
+        // Impressora
+
+        public void AddImpressora(Impressora impressora)
+        {
+            impressoras.Add(impressora);
+        }
+
+        public void ExibirImpressoras()
+        {
+            foreach (Impressora item in impressoras)
+            {
+                item.ExibirInfoImpressora();
+            }
+        }
+
+        public void AtualizarImpressora(int indice, Impressora impressora)
+        {
+            impressoras[indice] = impressora;
+        }
+
+        public void DelImpressora(int indice)
+        {
+            impressoras.RemoveAt(indice);
         }
     }
 }
