@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|d:\\dev\\cursos\\fundamentos-csharp-devio\\projetos\\gerenciamentodeativostecnologicos\\gerenciamentodeativostecnologicos\\dispositivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{121E4AE7-742D-4A99-AF9A-2B673D0B0A2B}|GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos.csproj|solutionrelative:gerenciamentodeativostecnologicos\\dispositivosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,35 +24,9 @@
               "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\Program.cs",
               "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\Program.cs",
               "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\Program.cs",
-              "ViewState": "AgIAAG0AAAAAAAAAAAA2wEYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-22T19:31:02.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MenuController.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\MenuController.cs",
-              "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\MenuController.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\MenuController.cs",
-              "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\MenuController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwLAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T23:33:11.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DispositivosRepositorio.cs",
-              "DocumentMoniker": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
-              "RelativeDocumentMoniker": "GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
-              "ToolTip": "D:\\dev\\cursos\\fundamentos-csharp-devio\\Projetos\\GerenciamentoDeAtivosTecnologicos\\GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
-              "RelativeToolTip": "GerenciamentoDeAtivosTecnologicos\\DispositivosRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-22T19:58:18.848Z",
               "EditorCaption": ""
             }
           ]

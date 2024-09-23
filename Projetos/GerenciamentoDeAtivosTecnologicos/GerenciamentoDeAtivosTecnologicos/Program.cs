@@ -12,18 +12,15 @@ namespace GerenciamentoDeAtivosTecnologicos
             Notebook notebook = null;
             Monitor monitor = null;
             Impressora impressora = null;
-
             int respMenu = 0;
             do
             {
-                Console.Clear();
                 MenuController.MenuInicial();
                 respMenu = int.Parse(Console.ReadLine());
 
                 switch (respMenu)
                 {
                     case 1:
-                        Console.Clear();
                         MenuController.MenuDispositivos();
                         int respNotebook = int.Parse(Console.ReadLine());
 
@@ -34,10 +31,19 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 dispositivosRepositorio.AddNotebook(notebook);
                                 break;
                             case 2:
-                                dispositivosRepositorio.ExibirNotebooks();
-                                Console.WriteLine();
-                                Console.WriteLine("Voltando para o Menu em 5 segundos...");
-                                Thread.Sleep(5000);
+                                if (notebook == null)
+                                {
+                                    Console.WriteLine("Nenhum Notebook cadastrado!");
+                                    Console.WriteLine();
+                                    Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                    Thread.Sleep(5000);
+                                } else
+                                {
+                                    dispositivosRepositorio.ExibirNotebooks();
+                                    Console.WriteLine();
+                                    Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                    Thread.Sleep(5000);
+                                }
                                 break;
                             case 3:
                                 Console.Write("Id (Alterar): ");
@@ -56,7 +62,6 @@ namespace GerenciamentoDeAtivosTecnologicos
                         }
                         break;
                     case 2:
-                        Console.Clear();
                         MenuController.MenuDispositivos();
                         int respMonitor = int.Parse(Console.ReadLine());
 
@@ -67,10 +72,19 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 dispositivosRepositorio.AddMonitor(monitor);
                                 break;
                             case 2:
-                                dispositivosRepositorio.ExibirMonitores();
-                                Console.WriteLine();
-                                Console.WriteLine("Voltando para o Menu em 5 segundos...");
-                                Thread.Sleep(5000);
+                                if (monitor == null)
+                                {
+                                    Console.WriteLine("Nenhum Monitor cadastrado!");
+                                    Console.WriteLine();
+                                    Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                    Thread.Sleep(5000);
+                                } else
+                                {
+                                    dispositivosRepositorio.ExibirMonitores();
+                                    Console.WriteLine();
+                                    Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                    Thread.Sleep(5000);
+                                }
                                 break;
                             case 3:
                                 Console.Write("Id (Alterar): ");
@@ -79,7 +93,6 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 dispositivosRepositorio.AtualizarMonitor(idAlterar, monitor);
                                 break;
                             case 4:
-                                Console.Clear();
                                 Console.Write("Id (Remover): ");
                                 int idRemover = int.Parse(Console.ReadLine());
                                 dispositivosRepositorio.DelMonitor(idRemover);
@@ -90,7 +103,6 @@ namespace GerenciamentoDeAtivosTecnologicos
                         }
                         break;
                     case 3:
-                        Console.Clear();
                         MenuController.MenuDispositivos();
                         int respImpressora = int.Parse(Console.ReadLine());
 
@@ -101,10 +113,19 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 dispositivosRepositorio.AddImpressora(impressora);
                                 break;
                             case 2:
-                                dispositivosRepositorio.ExibirImpressoras();
-                                Console.WriteLine();
-                                Console.WriteLine("Voltando para o Menu em 5 segundos...");
-                                Thread.Sleep(5000);
+                                if (impressora == null)
+                                {
+                                    Console.WriteLine("Nenhuma Impressora cadastrada!");
+                                    Console.WriteLine();
+                                    Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                    Thread.Sleep(5000);
+                                } else
+                                {
+                                    dispositivosRepositorio.ExibirImpressoras();
+                                    Console.WriteLine();
+                                    Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                    Thread.Sleep(5000);
+                                }
                                 break;
                             case 3:
                                 Console.Write("Id (Alterar): ");
@@ -113,7 +134,6 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 dispositivosRepositorio.AtualizarImpressora(idAlterar, impressora);
                                 break;
                             case 4:
-                                Console.Clear();
                                 Console.Write("Id (Remover): ");
                                 int idRemover = int.Parse(Console.ReadLine());
                                 dispositivosRepositorio.DelImpressora(idRemover);

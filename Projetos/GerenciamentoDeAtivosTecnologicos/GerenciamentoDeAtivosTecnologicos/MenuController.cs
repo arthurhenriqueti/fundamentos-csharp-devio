@@ -10,6 +10,7 @@ namespace GerenciamentoDeAtivosTecnologicos
     {
         public static void MenuInicial()
         {
+            Console.Clear();
             Console.WriteLine("---------------------------");
             Console.WriteLine("1 - Notebook");
             Console.WriteLine("2 - Monitor");
@@ -20,6 +21,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static void MenuDispositivos()
         {
+            Console.Clear();
             Console.WriteLine("---------------------------");
             Console.WriteLine("1 - Adicionar");
             Console.WriteLine("2 - Exibir");
