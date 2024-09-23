@@ -32,6 +32,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static Notebook AddNotebook()
         {
+            Console.Clear();
             Console.Write("Id: ");
             int id = int.Parse(Console.ReadLine());
             Console.Write("Nome: ");
@@ -58,6 +59,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static Notebook AlterarNotebook()
         {
+            Console.Clear();
             Console.Write("Id: ");
             int id = int.Parse(Console.ReadLine());
             Console.Write("Nome: ");
@@ -84,6 +86,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static Monitor AddMonitor()
         {
+            Console.Clear();
             Console.Write("Id: ");
             int id = int.Parse(Console.ReadLine());
             Console.Write("Nome: ");
@@ -110,6 +113,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static Monitor AlterarMonitor()
         {
+            Console.Clear();
             Console.Write("Id: ");
             int id = int.Parse(Console.ReadLine());
             Console.Write("Nome: ");
@@ -136,6 +140,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static Impressora AddImpressora()
         {
+            Console.Clear();
             Console.Write("Id: ");
             int id = int.Parse(Console.ReadLine());
             Console.Write("Nome: ");
@@ -158,6 +163,7 @@ namespace GerenciamentoDeAtivosTecnologicos
 
         public static Impressora AlterarImpressora()
         {
+            Console.Clear();
             Console.Write("Id: ");
             int id = int.Parse(Console.ReadLine());
             Console.Write("Nome: ");
