@@ -16,12 +16,14 @@ namespace GerenciamentoDeAtivosTecnologicos
             int respMenu = 0;
             do
             {
+                Console.Clear();
                 MenuController.MenuInicial();
                 respMenu = int.Parse(Console.ReadLine());
 
                 switch (respMenu)
                 {
                     case 1:
+                        Console.Clear();
                         MenuController.MenuDispositivos();
                         int respNotebook = int.Parse(Console.ReadLine());
 
@@ -33,6 +35,9 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 break;
                             case 2:
                                 dispositivosRepositorio.ExibirNotebooks();
+                                Console.WriteLine();
+                                Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                Thread.Sleep(5000);
                                 break;
                             case 3:
                                 Console.Write("Id (Alterar): ");
@@ -51,6 +56,7 @@ namespace GerenciamentoDeAtivosTecnologicos
                         }
                         break;
                     case 2:
+                        Console.Clear();
                         MenuController.MenuDispositivos();
                         int respMonitor = int.Parse(Console.ReadLine());
 
@@ -62,6 +68,9 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 break;
                             case 2:
                                 dispositivosRepositorio.ExibirMonitores();
+                                Console.WriteLine();
+                                Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                Thread.Sleep(5000);
                                 break;
                             case 3:
                                 Console.Write("Id (Alterar): ");
@@ -81,6 +90,7 @@ namespace GerenciamentoDeAtivosTecnologicos
                         }
                         break;
                     case 3:
+                        Console.Clear();
                         MenuController.MenuDispositivos();
                         int respImpressora = int.Parse(Console.ReadLine());
 
@@ -92,6 +102,9 @@ namespace GerenciamentoDeAtivosTecnologicos
                                 break;
                             case 2:
                                 dispositivosRepositorio.ExibirImpressoras();
+                                Console.WriteLine();
+                                Console.WriteLine("Voltando para o Menu em 5 segundos...");
+                                Thread.Sleep(5000);
                                 break;
                             case 3:
                                 Console.Write("Id (Alterar): ");
